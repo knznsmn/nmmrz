@@ -1,0 +1,7 @@
+{
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "./",
+  "useMarkdownLinks": true,
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true
+}
