@@ -3,5 +3,6 @@
   "attachmentFolderPath": "./",
   "useMarkdownLinks": true,
   "newFileLocation": "root",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": true
 }
