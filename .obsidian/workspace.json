@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70760496037ac2ba",
+        "id": "b531599462bd86b5",
         "type": "tabs",
         "children": [
           {
-            "id": "2255e8c3950d11f2",
+            "id": "a4c3bc4ee35e414f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "sujets/cs1101.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "sujets/cs1101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "sujets/cs1101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "sujets/cs1101.md"
               }
             }
           }
@@ -147,6 +147,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2255e8c3950d11f2",
-  "lastOpenFiles": []
+  "active": "a4c3bc4ee35e414f",
+  "lastOpenFiles": [
+    "sujets/fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf",
+    "sujets/fichiers",
+    "sujets/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf",
+    "README.md",
+    "sujets/cs1101.md",
+    "sujets"
+  ]
 }
