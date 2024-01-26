@@ -13,8 +13,9 @@ This is my notes in computer science, a life-long journey of arm-chair introspec
 - Programming languages and methodologies
 - Artificial Intelligence: techniques and challenges
 
-### Setting Up
-- Tools
-	- Linux
-	- Git
-	- Editor
+### Setting Up Dev Environment
+- [Desktop](linux.md)
+- [Android](android.md)
+- [iPad](iOS.md)
+
+
