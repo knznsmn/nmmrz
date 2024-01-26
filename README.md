@@ -14,8 +14,8 @@ This is my notes in computer science, a life-long journey of arm-chair introspec
 - Artificial Intelligence: techniques and challenges
 
 ### Setting Up Dev Environment
-- [Desktop](linux.md)
-- [Android](android.md)
+- [Desktop](outils/linux.md)
+- [Android](outils/android.md)
 - [iPad](iOS.md)
 
-
+### 

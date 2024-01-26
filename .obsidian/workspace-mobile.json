@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -134,11 +134,12 @@
   },
   "active": "3e222a115019c42c",
   "lastOpenFiles": [
+    "outils",
     "![](Screenshot_20240126_213050.jpg).md",
-    "android.md",
+    "outils/android.md",
     "README.md",
     "Screenshot_20240126_213050.jpg",
-    "linux.md",
+    "outils/linux.md",
     "Muuuuuuuuuu.md"
   ]
 }
