@@ -11,9 +11,11 @@
             "id": "bc93e109eb29c4dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sujets/fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf"
+                "file": "sujets/cs1101.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sujets/fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf",
+                "file": "sujets/cs1101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sujets/fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf",
+                "file": "sujets/cs1101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sujets/fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf"
+                "file": "sujets/cs1101.md"
               }
             }
           }
@@ -147,9 +149,9 @@
   },
   "active": "bc93e109eb29c4dc",
   "lastOpenFiles": [
+    "README.md",
     "sujets/cs1101.md",
     "sujets/fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf",
-    "README.md",
     "fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf.md",
     "fichiers",
     "outils/linux.md",
