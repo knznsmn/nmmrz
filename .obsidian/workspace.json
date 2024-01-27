@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outils/android.md",
+                "file": "outils/linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outils/android.md",
+                "file": "outils/linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outils/android.md",
+                "file": "outils/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outils/android.md"
+                "file": "outils/linux.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "a4c3bc4ee35e414f",
   "lastOpenFiles": [
+    "README.md",
+    "outils/git.md",
     "outils/linux.md",
     "outils/android.md",
-    "README.md",
     "sujets/cs1101.md",
     "sujets/fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf",
     "sujets/fichiers",
