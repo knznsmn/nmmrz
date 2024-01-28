@@ -13,7 +13,7 @@ sudo apt update && sudo apt upgrade -y
 - [vim](vim.md)
 - [openssh](ssh.md)
 
-Always run `apt update` first before installing any software, else your Linux machine will turn into Windows and you'd be sorry.
+Always run `apt update` first before installing any software, else your Linux machine will turn into Windows and you'd be sorry. Just kidding. Actually, WIndows is a great OS, not just for games. Visual Studio is a great IDE for making a plethora of applications for all platforms and it can only be installed on a Windows device if I am not wrong.
 
 ```bash
 sudo apt update && sudo apt upgrade -y
@@ -52,6 +52,22 @@ cat id_ed25519.pub
 
 ##### vim
 
+Much of the changes I want to make for my toolbox could most probably be automated. I should learn how to do this someday.
+
+For now, I'll just make a repository for all my config files so I can find them all in one place.
+
+1. Create a `.gitignore` containing only `*`.
+2. Initialize `home` and set up `git` repository.
+```bash
+cd ~
+git init
+git remote add origin git@github.com:knznsmn/dtfls.git
+git fetch
+git checkout -f main
+```
+
+Found this [page](https://dotfiles.github.io/). Should read this later.
+
 ##### bash
 Make `bash` a lot prettier for eyescream experience using `oh-my-bash`.
 ```bash
@@ -63,8 +79,9 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/mast
 - [Station](https://github.com/getstation/desktop-app/releases)
 - [Obsidian](https://www.obsidian.md)
 - [Sublime Text](https://www.sublimetext.com/download_thanks?target=x64-deb)
+	- [configurations](/outils/subl.md)
 - [Sublime Merge](https://www.sublimemerge.com/download_thanks?target=x64-deb)
-- 
+ 
 ###### dotfiles
 - .vimrc
 - .bashrc
