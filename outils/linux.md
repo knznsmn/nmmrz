@@ -66,6 +66,8 @@ git fetch
 git checkout -f main
 ```
 
+Copied from this [page](https://drewdevault.com/2019/12/30/dotfiles.html).
+
 Found this [page](https://dotfiles.github.io/). Should read this later.
 
 ##### bash

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d19a34e94dc42c0",
+        "id": "2845aec49a0ef06b",
         "type": "tabs",
         "children": [
           {
-            "id": "b885a1826fca7538",
+            "id": "dbe1abc6a497dc55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sujets/cs1101.md",
+                "file": "outils/android.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sujets/cs1101.md",
+                "file": "outils/android.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sujets/cs1101.md",
+                "file": "outils/android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sujets/cs1101.md"
+                "file": "outils/android.md"
               }
             }
           }
@@ -147,18 +147,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b885a1826fca7538",
+  "active": "dbe1abc6a497dc55",
   "lastOpenFiles": [
-    "sujets/fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf",
-    "sujets/cs1101.md",
-    "README.md",
-    "fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf.md",
-    "fichiers",
     "outils/linux.md",
-    "outils/git.md",
+    "outils/subl.md",
+    "sujets/cs1101.md",
     "outils/android.md",
+    "README.md",
+    "outils/git.md",
+    "android.md",
+    "sujets/fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf",
     "sujets/fichiers",
-    "sujets/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf",
-    "sujets"
+    "sujets",
+    "outils",
+    "linux.md"
   ]
 }
