@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b12e164e621de8db",
+        "id": "6cfe477b9b6ab060",
         "type": "tabs",
         "children": [
           {
-            "id": "3e222a115019c42c",
+            "id": "3db2c3088bb37bd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,14 +132,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e222a115019c42c",
+  "active": "31be01bd08edb5b9",
   "lastOpenFiles": [
+    "sujets/cs/tables/README.md",
+    "sujets/cs/cs1101.md",
+    "README.md",
+    "sujets/cs/tables",
+    "sujets/cs/cs1104.md",
+    "sujets/cs",
+    "outils/linux.md",
+    "outils/vim.md",
+    "outils/android.md",
     "outils",
     "![](Screenshot_20240126_213050.jpg).md",
-    "outils/android.md",
-    "README.md",
     "Screenshot_20240126_213050.jpg",
-    "outils/linux.md",
     "Muuuuuuuuuu.md"
   ]
 }

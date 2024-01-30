@@ -43,7 +43,7 @@ git config --global user.email ""
 ssh-keygen -t ed25519 -C ""
 ```
 
-Copy the contents in the generated `.pub` to your Github's SSH and GPG keys tab or section:
+4. Copy the contents in the generated `.pub` to your Github's SSH and GPG keys tab or section:
 ```bash
 cat id_ed25519.pub
 ```
@@ -52,9 +52,9 @@ cat id_ed25519.pub
 
 ##### vim
 
-Much of the changes I want to make for my toolbox could most probably be automated. I should learn how to do this someday.
+Much of the changes I want to make for my toolbox could most probably be automated. I should learn how to do that someday.
 
-For now, I'll just make a repository for all my config files so I can find them all in one place.
+For now, I'll just make a repository for all my config files so I can easily find them all in one place.
 
 1. Create a `.gitignore` containing only `*`.
 2. Initialize `home` and set up `git` repository.
