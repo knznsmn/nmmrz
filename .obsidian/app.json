@@ -29,5 +29,7 @@
     "editor:configure-toolbar"
   ],
   "tabSize": 2,
-  "trashOption": "none"
+  "trashOption": "none",
+  "showLineNumber": true,
+  "useTab": false
 }

@@ -80,6 +80,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/mast
 - [Vivaldi](https://vivaldi.com)
 - [Station](https://github.com/getstation/desktop-app/releases)
 - [Obsidian](https://www.obsidian.md)
+	- [Markdown syntax](/sujets/cs/tables/md.md) 
 - [Sublime Text](https://www.sublimetext.com/download_thanks?target=x64-deb)
 	- [configurations](/outils/subl.md)
 - [Sublime Merge](https://www.sublimemerge.com/download_thanks?target=x64-deb)
