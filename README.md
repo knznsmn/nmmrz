@@ -42,4 +42,6 @@ I enrolled myself in the University of the People's computer science program, wh
 - [Statistics](/sujets/logiques/statistics.md) 
 - [College Algebra](/sujets/logiques/algebra.md) 
 - [Discrete Mathematics](/sujets/logiques/planck.md) 
- 
+
+#### Some more courses
+- [UNIV1101](/sujets/electives/univ1101.md) 
