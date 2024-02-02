@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe987588f51fe36f",
+        "id": "4595f5d7b09e0c82",
         "type": "tabs",
         "children": [
           {
-            "id": "9665a13e68597768",
+            "id": "64e77b6a8c944594",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outils/vim.md",
+                "file": "outils/android.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "aa2fa90deddc14e5",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outils/vim.md",
+                "file": "outils/android.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outils/vim.md",
+                "file": "outils/android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outils/vim.md"
+                "file": "outils/android.md"
               }
             }
           }
@@ -148,20 +147,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9665a13e68597768",
+  "active": "64e77b6a8c944594",
   "lastOpenFiles": [
+    "outils/git.md",
+    "outils/android.md",
+    "sujets/fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf",
+    "sujets/cs/cs1101.md",
     "README.md",
     "outils/linux.md",
     "sujets/cs/tables/md.md",
-    "outils/git.md",
     "outils/vim.md",
     "sujets/cs/tables/README.md",
-    "sujets/cs/cs1101.md",
     "outils/subl.md",
     "sujets/cs1101.md",
-    "outils/android.md",
     "android.md",
-    "sujets/fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf",
     "sujets/fichiers",
     "sujets",
     "outils",

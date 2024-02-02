@@ -31,5 +31,12 @@
   "tabSize": 2,
   "trashOption": "none",
   "showLineNumber": true,
-  "useTab": false
+  "useTab": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
