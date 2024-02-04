@@ -70,6 +70,10 @@ Copied from this [page](https://drewdevault.com/2019/12/30/dotfiles.html).
 
 Found this [page](https://dotfiles.github.io/). Should read this later.
 
+Adding files/directories:
+```bash
+git add -f <filename>
+```
 ##### bash
 Make `bash` a lot prettier for eyescream experience using `oh-my-bash`.
 ```bash
