@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95f079750a2055f5",
+        "id": "0dca274645af31be",
         "type": "tabs",
         "children": [
           {
-            "id": "934a00939dc83b96",
+            "id": "e4fe9610a16425be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outils/linux.md",
+                "file": "sujets/cs/cs1101.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,16 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "7c1a18c290dc3065",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true
+            }
           }
         ]
       }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outils/linux.md",
+                "file": "sujets/cs/cs1101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outils/linux.md",
+                "file": "sujets/cs/cs1101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outils/linux.md"
+                "file": "sujets/cs/cs1101.md"
               }
             }
           }
@@ -147,12 +157,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "934a00939dc83b96",
+  "active": "e4fe9610a16425be",
   "lastOpenFiles": [
+    "README.md",
     "outils/git.md",
     "outils/vim.md",
     "outils/linux.md",
-    "README.md",
     "sujets/cs/tables/md.md",
     "sujets/cs/tables/README.md",
     "outils/subl.md",

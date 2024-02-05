@@ -1,5 +1,9 @@
 {
   "accentColor": "#59cade",
   "baseFontSize": 14,
-  "monospaceFontFamily": "iMWritingDuo Nerd Font"
+  "monospaceFontFamily": "iMWritingDuo Nerd Font",
+  "cssTheme": "iA Writer",
+  "enabledCssSnippets": [
+    "knznsmn"
+  ]
 }
