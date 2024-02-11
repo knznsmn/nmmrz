@@ -93,3 +93,41 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/mast
 ###### dotfiles
 - fonts - install fonts at `~/.local/share/fonts`.
 
+#### Codecs and &c...
+
+```bash
+sudo apt install ubuntu-restricted-extras libavcodec-extra libdvd-pkg
+```
+
+Install the NVIDIA driver instead of the default graphics driver.
+
+```bash
+sudo ubuntu-drivers autoinstall
+```
+
+Install Tweaks
+```bash
+sudo apt install -y software-properties-common
+```
+
+Install PPA of Pantheon Tweaks
+```bash
+sudo add-apt-repository -y ppa:philip.scott/pantheon-tweaks
+```
+
+```bash
+sudo apt install -y pantheon-tweaks
+```
+
+
+### Fixes
+
+Disable grub delay
+```bash
+sudo vim /etc/default/grub
+```
+
+Broken `libdvd-pkg`
+```bash
+sudo dpkg-reconfigure libdvd-pkg
+```

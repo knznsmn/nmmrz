@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0dca274645af31be",
+        "id": "5d2fcd663062aef8",
         "type": "tabs",
         "children": [
           {
-            "id": "e4fe9610a16425be",
+            "id": "c96dfd6236c5ce07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sujets/cs/cs1101.md",
+                "file": "outils/linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "7c1a18c290dc3065",
+            "id": "1dfe41ad7ae65c85",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sujets/cs/cs1101.md",
+                "file": "outils/linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sujets/cs/cs1101.md",
+                "file": "outils/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sujets/cs/cs1101.md"
+                "file": "outils/linux.md"
               }
             }
           }
@@ -157,9 +157,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e4fe9610a16425be",
+  "active": "c96dfd6236c5ce07",
   "lastOpenFiles": [
     "README.md",
+    "sujets/cs/cs1101.md",
     "outils/git.md",
     "outils/vim.md",
     "outils/linux.md",
@@ -172,7 +173,6 @@
     "sujets/electives",
     "outils/android.md",
     "sujets/fichiers/Think-Python_How-to-Think-Like-a-Computer-Scientist.pdf",
-    "sujets/cs/cs1101.md",
     "sujets/cs1101.md",
     "android.md",
     "sujets/fichiers",
