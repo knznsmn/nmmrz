@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outils/linux.md",
+                "file": "outils/subl.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outils/linux.md",
+                "file": "outils/subl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outils/linux.md",
+                "file": "outils/subl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outils/linux.md"
+                "file": "outils/subl.md"
               }
             }
           }
@@ -159,11 +159,11 @@
   },
   "active": "c96dfd6236c5ce07",
   "lastOpenFiles": [
+    "outils/linux.md",
     "README.md",
     "sujets/cs/cs1101.md",
     "outils/git.md",
     "outils/vim.md",
-    "outils/linux.md",
     "sujets/cs/tables/md.md",
     "sujets/cs/tables/README.md",
     "outils/subl.md",

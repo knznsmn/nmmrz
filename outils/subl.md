@@ -46,3 +46,19 @@ Copied from this [tutorial](https://www.geeksforgeeks.org/how-to-use-terminal-in
 sudo ln -s /opt/sublime_text/sublime_text /usr/local/bin/subl
 ```
 Copied from this [doc](https://www.sublimetext.com/docs/command_line.html).
+
+
+#### Settings
+
+```
+{
+	"theme": "Adaptive.sublime-theme",
+	"font_size": 10,
+	"font_face": "Jetbrains Mono",
+	"save_on_focus_lost": true,
+	"highlight_line": true,
+	"caret_style": "phase",
+	"ignored_packages":
+	[],
+}
+```
