@@ -1,6 +1,8 @@
 # Setting Up A Dev Environment
 
-l like [Ubuntu](https://ubuntubudgie.org/downloads) as the best Linux distribution. Download (hands down) [the best operating system ever](https://ubuntubudgie.org/downloads) here.
+l ~~like~~ hate [Ubuntu](https://ubuntubudgie.org/downloads) as the best Linux distribution. Download (hands down) [the best operating system ever](https://www.linuxmint.com/download_lmde.php) here.
+
+LMDE is Debian with Cinammon desktop on top. Ubuntu have a habit of undermining my sudo by sneakily installing an ugly package of Firefox. Au revoir Ubuntu. Salut, Debian !
 
 Update the system:
 ```bash
@@ -91,35 +93,13 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/mast
 
 ---
 ###### dotfiles
-- fonts - install fonts at `~/.local/share/fonts`.
-
-#### Codecs and &c...
-
-```bash
-sudo apt install ubuntu-restricted-extras libavcodec-extra libdvd-pkg
-```
+- fonts - install fonts at `~/.local/share/fonts`
 
 Install the NVIDIA driver instead of the default graphics driver.
 
 ```bash
-sudo ubuntu-drivers autoinstall
+sudo apt install nvidia-driver
 ```
-
-Install Tweaks
-```bash
-sudo apt install -y software-properties-common
-```
-
-Install PPA of Pantheon Tweaks
-```bash
-sudo add-apt-repository -y ppa:philip.scott/pantheon-tweaks
-```
-
-```bash
-sudo apt install -y pantheon-tweaks
-```
-
-
 ### Fixes
 
 Disable grub delay
