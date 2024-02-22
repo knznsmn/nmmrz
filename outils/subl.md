@@ -62,3 +62,7 @@ Copied from this [doc](https://www.sublimetext.com/docs/command_line.html).
 	[],
 }
 ```
+
+Toggle focus between terminal and editor.
+Check this issue out:
+https://github.com/randy3k/Terminus/issues/302#issuecomment-1137223130
