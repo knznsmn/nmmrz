@@ -65,4 +65,8 @@ Copied from this [doc](https://www.sublimetext.com/docs/command_line.html).
 
 Toggle focus between terminal and editor.
 Check this issue out:
-https://github.com/randy3k/Terminus/issues/302#issuecomment-1137223130
+~~https://github.com/randy3k/Terminus/issues/302#issuecomment-1137223130~~
+
+Just use `ctrl` + `'` for switch focus to editor and `alt` + `1` for switching focus to terminal. 
+
+```

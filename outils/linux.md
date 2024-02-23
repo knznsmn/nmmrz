@@ -106,7 +106,6 @@ Disable grub delay
 ```bash
 sudo vim /etc/default/grub
 ```
-
 Broken `libdvd-pkg`
 ```bash
 sudo dpkg-reconfigure libdvd-pkg
